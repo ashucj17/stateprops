@@ -1,7 +1,7 @@
 function StatusMessage(props){
 
     const {status} = props;
-    console.log(status);
+   
 
     return(
         <div>
