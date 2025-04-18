@@ -5,7 +5,7 @@ function StatusMessage(props){
 
     return(
         <div>
-            <p>Status {status}</p>
+            <button onClick={status}>Status {status}</button>
         </div>
     )
 
