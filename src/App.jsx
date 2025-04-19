@@ -12,15 +12,15 @@ function App (){
       {/* <StatusMessage status = 'loading' /> */}
       <div>
       <div>
-      <Card />
+      <Card followers = '13,245 followers' time = '14m' />
       <br />
       </div>
       <div>
-      <Card />
+      <Card followers = 'posted'/>
       <br />
       </div>
       <div>
-      <Card />
+      <Card followers = '31,999 followers' time = '59m' />
       </div>
       <br />
       </div>
