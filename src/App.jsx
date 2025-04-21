@@ -16,7 +16,7 @@ function App (){
       <br />
       </div>
       <div>
-      <Card followers = 'posted'/>
+      <Card followers = 'Promoted'/>
       <br />
       </div>
       <div>
