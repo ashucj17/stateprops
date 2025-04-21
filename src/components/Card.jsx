@@ -19,7 +19,10 @@ function Card(props) {
         <div>
           <h2> X Dev </h2>
           <span>{followers}</span>
+          {time !== undefined &&<div style={{display: 'flex', alignItems: 'center'}}>
           <p>{time}</p>
+          <img style={{width: 15, height: 15, paddingLeft: 10}} src="./clock.jpg" />
+          </div>}
         </div>
       </div>
       <div style={{color: "#fff", padding: 20}}>Roadmap to become a web developer in 2025</div>
